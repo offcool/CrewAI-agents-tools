@@ -1,0 +1,6 @@
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
+streamlit
+langchain_nvidia_ai_endpoints
